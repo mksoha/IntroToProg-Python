@@ -1,0 +1,3 @@
+do homework,high
+wash car,low
+cook dinner,high
